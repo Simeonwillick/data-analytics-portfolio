@@ -1,5 +1,7 @@
 Manufacturing Quality Control Analysis
+
 Project overview
+
 This project analyses 100 fictional production batches for two fictional paint product categories: Matt and Satin. The goal is to assess quality outcomes, identify common rejection drivers, and develop evidence-based operational recommendations.
 Important data note
 All records and specification limits are synthetic training data. They are not PCMN records, PCMN product specifications, or approved industry limits. They must not be represented as actual company data.
